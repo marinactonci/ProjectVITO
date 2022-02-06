@@ -14,7 +14,11 @@
     },
     "com.unity.2d.common": {
       "version": "6.0.0",
+<<<<<<< Updated upstream
       "depth": 2,
+=======
+      "depth": 1,
+>>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {
         "com.unity.2d.sprite": "1.0.0",
@@ -26,7 +30,11 @@
     },
     "com.unity.2d.path": {
       "version": "5.0.1",
+<<<<<<< Updated upstream
       "depth": 2,
+=======
+      "depth": 1,
+>>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -73,6 +81,7 @@
       "source": "builtin",
       "dependencies": {}
     },
+<<<<<<< Updated upstream
     "com.unity.2d.tilemap.extras": {
       "version": "2.2.1",
       "depth": 1,
@@ -88,6 +97,11 @@
     "com.unity.burst": {
       "version": "1.6.0",
       "depth": 3,
+=======
+    "com.unity.burst": {
+      "version": "1.6.0",
+      "depth": 2,
+>>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {
         "com.unity.mathematics": "1.2.1"
@@ -152,7 +166,11 @@
     },
     "com.unity.mathematics": {
       "version": "1.2.4",
+<<<<<<< Updated upstream
       "depth": 2,
+=======
+      "depth": 1,
+>>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
